@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0c0d3d7-492e-45ed-a46a-a9d5bfd7ab81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJdqwmCZYjf6pQT0yDyimC42mp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sms_dynamic_ignore [clean,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0c0d3d7-492e-45ed-a46a-a9d5bfd7ab81" name="Default Changelist" comment="" />
+      <created>1599733323134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599733323134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1430" y="-101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600828296579">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1430" y="-101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600828296579" />
+    <state x="-1358" y="-2" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1599735081551" />
+    <state x="-1430" y="-101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600049657537" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1600853514949">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1577" height="450" key="GridCell.Tab.0.bottom/0.23.1440.823/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600828414651" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600853514949" />
+    <state width="1633" height="351" key="GridCell.Tab.0.bottom/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1599783589391" />
+    <state width="1633" height="462" key="GridCell.Tab.0.bottom/0.23.1440.827/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600050840235" />
+    <state width="1633" height="462" key="GridCell.Tab.0.bottom/0.23.1440.829/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600051120924" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1600853514947">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1577" height="450" key="GridCell.Tab.0.center/0.23.1440.823/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600828414650" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600853514947" />
+    <state width="1633" height="351" key="GridCell.Tab.0.center/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1599783589389" />
+    <state width="1633" height="462" key="GridCell.Tab.0.center/0.23.1440.827/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600050840234" />
+    <state width="1633" height="462" key="GridCell.Tab.0.center/0.23.1440.829/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600051120923" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1600853514946">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1577" height="450" key="GridCell.Tab.0.left/0.23.1440.823/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600828414649" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600853514946" />
+    <state width="1633" height="351" key="GridCell.Tab.0.left/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1599783589388" />
+    <state width="1633" height="462" key="GridCell.Tab.0.left/0.23.1440.827/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600050840233" />
+    <state width="1633" height="462" key="GridCell.Tab.0.left/0.23.1440.829/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600051120923" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1600853514948">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1577" height="450" key="GridCell.Tab.0.right/0.23.1440.823/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600828414651" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600853514948" />
+    <state width="1633" height="351" key="GridCell.Tab.0.right/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1599783589390" />
+    <state width="1633" height="462" key="GridCell.Tab.0.right/0.23.1440.827/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600050840235" />
+    <state width="1633" height="462" key="GridCell.Tab.0.right/0.23.1440.829/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600051120924" />
+    <state x="258" y="96" key="Maven.ArtifactSearchDialog" timestamp="1600853410342">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="258" y="96" key="Maven.ArtifactSearchDialog/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600853410342" />
+    <state x="93" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1600853317299">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="93" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600853317299" />
+    <state x="-1096" y="-13" key="SettingsEditor/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1599733427333" />
+    <state x="93" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1600049641860" />
+    <state x="488" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1600829540730">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="488" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823/-1920.-157.1920.1057@0.23.1440.823" timestamp="1600829540730" />
+  </component>
+</project>
